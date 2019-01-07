@@ -5,6 +5,10 @@
           { "version": "14.1.0.6",
             "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-14.1.0.6-fx.xpi", 
             "update_hash": "sha256:bb2439b75a3cb5cada13fe137d2c0346a30716a4ab1ae1960d7708d4b608743e"
+          },
+          { "version": "14.1.0.7",
+            "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-14.1.0.7-fx.xpi", 
+            "update_hash": "sha256:7e343f7b1e0e63a4cd59a923b8af37aa9cb6b6525839d4f7450f1f8913cfe352"
           }
         ]
       }
