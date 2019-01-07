@@ -2,13 +2,9 @@
     "addons": {
       "{3dccadd3-21c2-4aa6-beca-2bcdfb1d24a2}": {
         "updates": [
-          { "version": "14.1.0.3",
-            "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools_by_joe_reifel-14.1.0.3-fx.xpi", 
-            "update_hash": "sha256:9e2bac5880895fa36f59ffcdc33d66863550ddc77a172dba7f9c2b00ea67903b"
-          },
-          { "version": "14.1.0.4",
-            "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools_by_joe_reifel-14.1.0.4-fx.xpi",
-            "update_hash": "sha256:1ab08c28cf6dad4096522b92fc54c2f5313e8bc77c8d4f87af1e2df856d7bf0c"
+          { "version": "14.1.0.6",
+            "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-14.1.0.6-fx.xpi", 
+            "update_hash": "sha256:bb2439b75a3cb5cada13fe137d2c0346a30716a4ab1ae1960d7708d4b608743e"
           }
         ]
       }
