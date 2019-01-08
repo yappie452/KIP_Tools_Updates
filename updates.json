@@ -8,11 +8,6 @@
           "update_hash": "sha256:bb2439b75a3cb5cada13fe137d2c0346a30716a4ab1ae1960d7708d4b608743e"
         },
         {
-          "version": "14.1.0.7",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-14.1.0.7-fx.xpi",
-          "update_hash": "sha256:7e343f7b1e0e63a4cd59a923b8af37aa9cb6b6525839d4f7450f1f8913cfe352"
-        },
-        {
           "version": "14.1.0.9",
           "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-14.1.0.9-an+fx.xpi",
           "update_hash": "sha256:853878ac6088e89aa2268bbe39296383820a1ee0a3b4dd3712df207ab51e2dfd"
@@ -32,9 +27,9 @@
           "update_hash": "sha256:0ca78fb177e7d2a58019a5f6928af4278885f667ba03edcd94583e2b29401aa0"
         },
         {
-          "version": "14.1.0.1",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.0-fx.xpi",
-          "update_hash": "sha256:0ca78fb177e7d2a58019a5f6928af4278885f667ba03edcd94583e2b29401aa0"
+          "version": "14.1.0.2",
+          "update_link": "https://gitlab.es.f5net.com/GSNPI/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.2-an+fx.xpi",
+          "update_hash": "sha256:4f40e0693ccb1b6549f2dfcdd2bdaeb37f238dc3ecfe08700b19ffafa82511cc"
         }
       ]
     }
