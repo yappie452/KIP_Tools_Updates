@@ -45,6 +45,11 @@
           "version": "14.1.0.3",
           "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.3-an+fx.xpi",
           "update_hash": "sha256:5c42e85c9128af96b1ae3874bd55c991cb50747c1e954b9a50f20f543340c37c"
+        },
+        {
+          "version": "14.1.0.4",
+          "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.4-an+fx.xpi",
+          "update_hash": "sha256:d1889b49a1c8568d050bd5c98399519d5c85af917be446d16fb66a995a678516"
         }
       ]
     }
