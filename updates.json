@@ -67,6 +67,20 @@
           "update_hash": "sha256:1c24666904a9e31c4fa269465c9c845393567c56381743cfec6aaeeb2302404b"
         }
       ]
+    },
+    "{b1145c00-c975-455c-84b3-bb7f8cc5df34}": {
+      "updates": [
+        {
+          "version": "1.0.2",
+          "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.0.2-an+fx.xpi",
+          "update_hash": "sha256:b7b4d3a27d3ae8c570b9e28d3435618ffd59178fab898f8007466af18ecf61c6"
+        },
+        {
+          "version": "1.0.3",
+          "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.0.3-an+fx.xpi",
+          "update_hash": "sha256:9bacc4505158e8b346a4ea76411a056b464b38dec4a19d96f245e1cdddec34f3"
+        }
+      ]
     }
   }
 }
