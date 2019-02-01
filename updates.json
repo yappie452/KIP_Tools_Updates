@@ -21,6 +21,11 @@
           "version": "14.1.0.18",
           "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-14.1.0.18-an+fx.xpi",
           "update_hash": "sha256:92a5dccefad64136615a4ba076c6915210139c0e91d309c759ae78e52eed34a0"
+        },
+        {
+          "version": "14.1.0.19",
+          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-14.1.0.19-an+fx.xpi",
+          "update_hash": "sha256:927a21a4fabc6dc5259b85577384206980e4f79d9f09fa41dcaba483e803981e"
         }
       ]
     },
@@ -45,6 +50,16 @@
           "version": "14.1.0.10",
           "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.10-an+fx.xpi",
           "update_hash": "sha256:92eb40583f982112a5ab1bbd0a571f2726bb826646ca0950abd888d2f88ef895"
+        },
+        {
+          "version": "14.1.0.11",
+          "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.11-an+fx.xpi",
+          "update_hash": "sha256:9561f47895af47213cf4f6025f3197bbf85ee13d41259aa5d33949df596ed963"
+        },
+        {
+          "version": "14.1.0.12",
+          "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.12-an+fx.xpi",
+          "update_hash": "sha256:135464177f315802e33cb030cfd67781f2ed8157b9a13bb3d5b394275e2a2e8b"
         }
       ]
     },
@@ -69,6 +84,11 @@
           "version": "1.0.7",
           "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.0.7-an+fx.xpi",
           "update_hash": "sha256:1e687061275453fea11713d3dc1ecae9c0ad6bd4cde383376d188046bd4c44ea"
+        },
+        {
+          "version": "1.0.8",
+          "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.0.8-an+fx.xpi",
+          "update_hash": "sha256:f9f833ea56e7b616b931cccf8e6cb077d58fe1f0b8e4a69a36cff3720b4aceda"
         }
       ]
     }
