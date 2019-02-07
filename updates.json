@@ -60,6 +60,16 @@
           "version": "14.1.0.12",
           "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.12-an+fx.xpi",
           "update_hash": "sha256:135464177f315802e33cb030cfd67781f2ed8157b9a13bb3d5b394275e2a2e8b"
+        },
+        {
+          "version": "14.1.0.13",
+          "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.13-an+fx.xpi",
+          "update_hash": "sha256:5a5cf703b6a116fe18d563ad43ea944e63cd2797a7ef42b2324e5df3c80c3e75"
+        },
+        {
+          "version": "14.1.0.14",
+          "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.14-an+fx.xpi",
+          "update_hash": "sha256:6faf4b750a800bb04204b4db848465f95cac9be254c78642b415c5295e9bf877"
         }
       ]
     },
