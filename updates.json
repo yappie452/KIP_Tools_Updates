@@ -61,6 +61,11 @@
           "version": "16.0.1",
           "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.1-an+fx.xpi",
           "update_hash": "sha256:2dbabfcb62c22bf6fe584c9f36b1d84def63cb335fb267174e1bbaf6a7ac4faa"
+        },
+        {
+          "version": "16.0.2",
+          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.2-an+fx.xpi",
+          "update_hash": "sha256:929d2c939766cbf3accb7d64075c1bc8ec63f3ff86bed3e1137e0e66d7ff69b1"
         }
       ]
     },
