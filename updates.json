@@ -134,6 +134,11 @@
           "version": "1.1.4",
           "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.1.4-an+fx.xpi",
           "update_hash": "sha256:2bab45a3a296e96a94c9117d027afaea7d52e37f1d41c7a2fe6e581ee7566212"
+        },
+        {
+          "version": "1.1.5",
+          "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.1.5-an+fx.xpi",
+          "update_hash": "sha256:50a2fb168cae77384aa41c30430490c472ab175c09b85f031a82d713b7be12a0"
         }
       ]
     }
