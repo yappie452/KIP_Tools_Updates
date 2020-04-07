@@ -3,86 +3,6 @@
     "{3dccadd3-21c2-4aa6-beca-2bcdfb1d24a2}": {
       "updates": [
         {
-          "version": "15.1.20",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.1.20-an+fx.xpi",
-          "update_hash": "sha256:7a25e9e1793fa57a7030afb953323bb86226bc95eedad9dfe2e5a47e533ac024"
-        },
-        {
-          "version": "15.1.22",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.1.22-an+fx.xpi",
-          "update_hash": "sha256:7f4081bf645914ab3e503df1892101b4b3c0eb00f1590ac66de01d63298499ec"
-        },
-        {
-          "version": "15.1.23",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.1.23-an+fx.xpi",
-          "update_hash": "sha256:d68819e58c2d67910f2b7d215313986b348803b5e89fe6411c802c007ec96045"
-        },
-        {
-          "version": "15.1.24",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.1.24-an+fx.xpi",
-          "update_hash": "sha256:6f4d39823914555739ef0dcc383efe3cda1e762fc282a9e30eede30d2efad0d6"
-        },
-        {
-          "version": "15.2.3",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.2.3-an+fx.xpi",
-          "update_hash": "sha256:8bdbd0977751aa6a540cb9f7195b59bbbfbfa118ef4d4ad0c4e6cf67b5516c96"
-        },
-        {
-          "version": "15.2.4",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.2.4-an+fx.xpi",
-          "update_hash": "sha256:e452be66ef7f92696003f55dd12aeb9970e9eaac94851a88343010d646d9ad75"
-        },
-        {
-          "version": "15.2.5",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.2.5-an+fx.xpi",
-          "update_hash": "sha256:be8ea29a0536dd9235803eaa0781375f2d8915e3a6f726cd91a9c59edcc0dde1"
-        },
-        {
-          "version": "15.2.6",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.2.6-an+fx.xpi",
-          "update_hash": "sha256:83302ce70d42c59e6d7dee881cd93dc9b9bc7650769dcc5cc42785134c9e6504"
-        },
-        {
-          "version": "15.2.7",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.2.7-an+fx.xpi",
-          "update_hash": "sha256:825b32e1c1920cad23401cc6d5105c73f3fd9b9ef8be6c60c91fdc01bb460f05"
-        },
-        {
-          "version": "15.2.8",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.2.8-an+fx.xpi",
-          "update_hash": "sha256:1ea07ea792eb8a2f9f4aee3cfbce426dd0de86e65a288802fb6dc0503951e904"
-        },
-        {
-          "version": "15.2.9",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-15.2.9-an+fx.xpi",
-          "update_hash": "sha256:9713c7bdac67de30cf043cd79031dc8a812f277118c6c9a07955191cd17c89fb"
-        },
-        {
-          "version": "16.0.1",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.1-an+fx.xpi",
-          "update_hash": "sha256:2dbabfcb62c22bf6fe584c9f36b1d84def63cb335fb267174e1bbaf6a7ac4faa"
-        },
-        {
-          "version": "16.0.2",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.2-an+fx.xpi",
-          "update_hash": "sha256:929d2c939766cbf3accb7d64075c1bc8ec63f3ff86bed3e1137e0e66d7ff69b1"
-        },
-        {
-          "version": "16.0.3",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.3-an+fx.xpi",
-          "update_hash": "sha256:51d302140c61e3595f39de1d28d1622d962e8d40b3b0a8a2181e7edf807ca305"
-        },
-        {
-          "version": "16.0.4",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.4-an+fx.xpi",
-          "update_hash": "sha256:238b6149dcdb13bab1c5b2dcb23467f76ee55443d86a5ddb35dc4d3b4644e9c6"
-        },
-        {
-          "version": "16.0.7",
-          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.7-an+fx.xpi",
-          "update_hash": "sha256:4c4d94f5a3876c6b0064091c1418b2f8e7c99ea1636635b80068db288e5734c7"
-        },
-        {
           "version": "16.0.8",
           "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.8-an+fx.xpi",
           "update_hash": "sha256:168b9dafed8c4908c9af2661b793751d454875c6543c9831c28a60e7e36c116d"
@@ -91,16 +11,16 @@
           "version": "16.0.9",
           "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.9-an+fx.xpi",
           "update_hash": "sha256:fa34ff32a769012b3c493b7aaff7cac4d6175ccab902e61c743490a27043580c"
+        },
+        {
+          "version": "16.0.11",
+          "update_link": "https://gitlab.es.f5net.com/GSNPI/KIP_Tools/raw/master/Release/kip_tools-16.0.11-an+fx.xpi",
+          "update_hash": "sha256:8a028f1de2161cafb88b875595f7519ce74ac8705275e044675000bcdc8e73e7"
         }
       ]
     },
     "{088802ac-a3f2-4f52-b06e-0938f58cdac8}": {
       "updates": [
-        {
-          "version": "14.1.0.16",
-          "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.16-an+fx.xpi",
-          "update_hash": "sha256:3d1ae23c5de4403df64e1673f94c0b1f42aec1cd633e6d4d21817134acce1a3d"
-        },
         {
           "version": "14.1.0.17",
           "update_link": "https://gitlab.es.f5net.com/reifel/FPWebTools/raw/master/Release/fpweb_tools-14.1.0.17-an+fx.xpi",
@@ -115,26 +35,6 @@
     },
     "{b1145c00-c975-455c-84b3-bb7f8cc5df34}": {
       "updates": [
-        {
-          "version": "1.1.0",
-          "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.1.0-an+fx.xpi",
-          "update_hash": "sha256:2b2f4fde56a027766ed3ecc44eaa8b00bf50b852c167ab3300d0ad7de37a3cd1"
-        },
-        {
-          "version": "1.1.1",
-          "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.1.1-an+fx.xpi",
-          "update_hash": "sha256:2201ec99581fd1890c403048a0093ad8fe50c07d894d6a44d3dc4438ce52664f"
-        },
-        {
-          "version": "1.1.2",
-          "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.1.2-an+fx.xpi",
-          "update_hash": "sha256:965bbd3f7f6285cd63efda4cea7c88b89050bd6f9dbb05531a39526835c03a29"
-        },
-        {
-          "version": "1.1.3",
-          "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.1.3-an+fx.xpi",
-          "update_hash": "sha256:bef9de45c54c109e587aaff24130d19439cc1ca790343447d3fb533779e87738"
-        },
         {
           "version": "1.1.4",
           "update_link": "https://gitlab.es.f5net.com/reifel/UnApmifier/raw/master/Release/unapmifier-1.1.4-an+fx.xpi",
